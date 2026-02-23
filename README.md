@@ -2,8 +2,6 @@
 
 Text is a minimal, aesthetically pleasing web-based text editor that dynamically scales font size to perfectly fit your viewport. It's designed for focused writing, presentation, or simply creating beautiful text snippets.
 
-![Screenshot Placeholder](public/vite.svg) *Dynamic scaling in action.*
-
 ## Features
 
 - **🚀 Dynamic Font Scaling**: Text automatically adjusts its size to fill the screen, whether you're typing a single word or a full paragraph.
