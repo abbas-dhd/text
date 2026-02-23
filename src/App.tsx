@@ -29,7 +29,12 @@ function App() {
   useEffect(() => {
     window.addEventListener('mousemove', resetTimer)
     window.addEventListener('touchstart', resetTimer)
-    resetTimer()
+    
+    // Start initial idle timer without calling setState synchronously
+    timerRef.current = setTimeout(() => {
+      setShowControls(false)
+    }, controlsTimeout)
+
     return () => {
       window.removeEventListener('mousemove', resetTimer)
       window.removeEventListener('touchstart', resetTimer)
