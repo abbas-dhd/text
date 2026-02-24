@@ -158,7 +158,7 @@ function App() {
         onInput={handleInput}
         spellCheck={false}
       >
-        TEXT
+        SLATE
       </div>
 
       <div className="measure-wrapper">

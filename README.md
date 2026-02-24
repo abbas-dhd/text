@@ -1,10 +1,10 @@
-# Text: The Dynamic Scaling Editor
+# Slate: The Dynamic Scaling Editor
 
-Text is a minimal, aesthetically pleasing web-based text editor that dynamically scales font size to perfectly fit your viewport. It's designed for focused writing, presentation, or simply creating beautiful text snippets.
+Slate is a minimal, aesthetically pleasing web-based text editor that dynamically scales font size to perfectly fit your viewport. It's designed for high-impact presentations, focused writing, or simply creating beautiful text snippets.
 
 ## Features
 
-- **🚀 Dynamic Font Scaling**: Text automatically adjusts its size to fill the screen, whether you're typing a single word or a full paragraph.
+- **🚀 Dynamic Font Scaling**: Slate automatically adjusts its size to fill the screen, whether you're typing a single word or a full paragraph.
 - **🎨 Custom Aesthetics**: Easily change background and accent colors using integrated controls to suit your mood or purpose.
 - **✨ Zero Distraction**: A clean, minimalistic interface centered entirely on your text.
 
@@ -21,8 +21,8 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/text.git
-   cd text
+   git clone https://github.com/abbas-dhd/slate.git
+   cd slate
    ```
 
 2. **Install dependencies**:

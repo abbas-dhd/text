@@ -1,6 +1,6 @@
-# Contributing to Text
+# Contributing to Slate
 
-Thank you for your interest in contributing to Text! We appreciate your help in making this project better for everyone.
+Thank you for your interest in contributing to Slate! We appreciate your help in making this project better for everyone.
 
 ## How Can I Contribute?
 
